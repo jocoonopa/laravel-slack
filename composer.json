@@ -1,20 +1,20 @@
 {
-    "name": "gpressutto5/laravel-slack",
+    "name": "jocoonopa/laravel-slack",
     "description": "Slack notification for Laravel as it should be.",
     "keywords": ["laravel", "slack"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Guilherme Pressutto",
-            "email": "gpressutto5@gmail.com"
+            "name": "Jocoonopa",
+            "email": "jocoonopa@gmail.com"
         }
     ],
     "require": {
         "php": ">=7.0.0",
         "guzzlehttp/guzzle": "^6.3",
-        "illuminate/notifications": "^5.5",
-        "illuminate/support": "^5.5"
+        "illuminate/notifications": "^7.0",
+        "illuminate/support": "^7.0"
     },
     "require-dev": {
         "orchestra/testbench": "~3.5",
